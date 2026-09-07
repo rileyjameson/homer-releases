@@ -13,5 +13,5 @@ A little Homer for your Mac or Windows desktop.
 
 ## Early access
 
-This first release is not Apple-notarized or Windows publisher-signed, so a first-launch security approval may be required. On a personal Mac, see [Apple's guidance for opening an app you trust](https://support.apple.com/en-gb/102445). If an employer blocks installation, ask IT; do not disable company protections.
+The Mac app is signed and notarized by Apple. If an earlier Mac download would not open, download the current version and replace the old copy in Applications. Windows may show an unverified-publisher warning. If an employer blocks installation, ask IT whether Homer is allowed.
 
